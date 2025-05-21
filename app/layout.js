@@ -10,8 +10,8 @@ import Provider from "./provider";
  })
 
 export const metadata = {
-  title: "Bitnut",
-  description: "Nutty the albino squirrel",
+  title: "TUN",
+  description: "Tun the albino squirrel",
 };
 
 export default function RootLayout({ children }) {

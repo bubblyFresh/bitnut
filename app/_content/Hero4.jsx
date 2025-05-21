@@ -8,7 +8,7 @@ function Hero4() {
                 <p></p>
             </div>
             <div className='flex justify-center items-center m-10 pb-[1rem]'>
-                <h1 className='text-xl  text-primary'>Bitnut is a meme coin without any intrinsic value or guarantee of financial gain. By purchasing Bitnut, you acknowledge and agree that you have read and understood this disclaimer.</h1>
+                <h1 className='text-xl  text-primary'>tun is a meme coin without any intrinsic value or guarantee of financial gain. By purchasing tun, you acknowledge and agree that you have read and understood this disclaimer.</h1>
             </div>
         </div>
   )
